@@ -1,0 +1,5 @@
+## Gerenciando Politicas em Acessos Azure
+
+Documentos sobre proteção de dados, boas praticas de segurança e compliance estão disponíveis em servicetrust.microsoft.com. Ali estão disponíveis documentos oficiais da Microsoft que descrevem os regulamentos e comportamento da núvem. Oferece documentos relacionados a regulamento de paises, exigências de segurança, leitura de riscos, auditoria entre outros. <br>
+O Microsoft Purview a ferramenta que ajuda a identificar pontos de risco de informação. Com base nas analises que a plataforma oferece é possível tomar contra medidas que são indicadas dentro do Purview. Envolve análise de comunicação, gravações, governança, segurança dos dados e privacidade.<br>
+As politicas também estão presentes como forma de limitar/controlar as ações que são serão tomadas dentro de um grupo de recurso. Com o uso é possível estabelecer regras que estão acima de qualquer nível de acesso.
